@@ -10,3 +10,4 @@ train -->1.with mask
          2.without mask
 test -->1.with mask
          2.without mask         
+make sure you have named properly.
