@@ -10,6 +10,12 @@ dataset used is https://github.com/prajnasb/observations/tree/master/experiement
 Make sure after getting the dataset sort the dataset according to torch requirements as
 train -->1.with mask
          2.without mask
+         
+         
 test -->1.with mask
-         2.without mask         
+         2.without mask  
+         
+         
+         
+         
 make sure you have named the folders properly.
